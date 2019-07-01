@@ -8,6 +8,7 @@
 |module      | 编译目标代码使用的模块化标准  |  commonjs    | es6/commonjs | 
 |lib         | 编译环境                    | ['es2016']    |es2016，dom |
 |outDir      | 编译后文件存放位置           |  ---    | './dist' |
+|strictNullChecks:true      | 获取更严厉的类型检查       | false   | --- |
 
 ## inClude 需要编译的文件目录
 数组类型，可以填写多个文件目录
