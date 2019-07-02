@@ -1,4 +1,3 @@
-
  type Deck = NomarlCard[]
  type Color = '♥' | '♠'  | '♦' | '♣' 
  type NomarlCard = {
